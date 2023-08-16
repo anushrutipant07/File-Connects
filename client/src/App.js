@@ -28,6 +28,8 @@ function App() {
     fileInputRef.current.click();
   }
 
+
+  
   return (
     <div className='container'>
       <img src={url} className='img' />
